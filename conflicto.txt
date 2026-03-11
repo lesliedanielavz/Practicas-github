@@ -1,4 +1,4 @@
 
 Proyecto: Git Conflicts
-Responsable: Leslie Valenzuela
+Responsable: EQUIPO-B
 Version: 1.0
