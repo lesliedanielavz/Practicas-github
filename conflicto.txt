@@ -1,0 +1,4 @@
+
+Proyecto: Git Conflicts
+Responsable: Leslie Valenzuela
+Version: 1.0
