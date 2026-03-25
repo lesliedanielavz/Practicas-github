@@ -1,0 +1,10 @@
+
+
+Nombre del alumno : Leslie Daniela Valenzuela Zatarain 
+
+Fecha: 10/Marzo/2026
+
+Objetivo de la actividad: Aprender unos nuevos comandos y una pequeña introduccion a github
+
+Qué es un Pull Request (definición breve)
+Es una solicitud que permite hacer cambios y sugerir mejoras a un proyecto.
